@@ -1,6 +1,5 @@
 <img align="right" height="250" src="https://gifdb.com/images/high/purple-cat-typing-at-work-n2ihfrdznlm2m5fc.webp"  />
-
-###
+<div style="clear: both"></div>
 
 <h1 align="left">Isabelle Nascimento</h1>
 
@@ -57,7 +56,7 @@
 ###
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=100&section=footer&reversal=false&text=I'm%20higher%20than%20the%20hopes%20that%20you%20brought%20down&fontSize=16&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=12&descAlign=50&descAlignY=50&textBg=false&theme=tokyonight"  />
+  <img align="center" style="width: 100%" src="https://capsule-render.vercel.app/api?type=soft&height=100&section=footer&reversal=false&text=I'm%20higher%20than%20the%20hopes%20that%20you%20brought%20down&fontSize=16&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=12&descAlign=50&descAlignY=50&textBg=false&theme=tokyonight"  />
 </div>
 
 ###
