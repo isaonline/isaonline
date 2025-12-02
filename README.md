@@ -1,7 +1,7 @@
 <img align="right" height="250" src="https://gifdb.com/images/high/purple-cat-typing-at-work-n2ihfrdznlm2m5fc.webp"  />
-<div style="clear: both"></div>
 
-<h1 align="left">Isabelle Nascimento</h1>
+### `Isabelle Nascimento`
+<hr>
 
 ###
 
